@@ -14,3 +14,6 @@ The data is obtained from ***CrunchBase*** website using API.  CrunchBase is a w
 3) Logistic Regression 
 4) PCA
 5) Multilayered neural networks
+
+
+Coded the above models in python and used pyspark module to obtain efficient runtime.
